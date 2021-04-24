@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robots/static/css/main.9f3e7a3f.chunk.css",
+    "main.js": "/robots/static/js/main.981821ae.chunk.js",
+    "main.js.map": "/robots/static/js/main.981821ae.chunk.js.map",
+    "runtime-main.js": "/robots/static/js/runtime-main.cbcde2e6.js",
+    "runtime-main.js.map": "/robots/static/js/runtime-main.cbcde2e6.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robots/static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js": "/robots/static/js/2.df928947.chunk.js",
+    "static/js/2.df928947.chunk.js.map": "/robots/static/js/2.df928947.chunk.js.map",
+    "index.html": "/robots/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robots/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.9f3e7a3f.chunk.css.map": "/robots/static/css/main.9f3e7a3f.chunk.css.map",
+    "static/js/2.df928947.chunk.js.LICENSE.txt": "/robots/static/js/2.df928947.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robots/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcde2e6.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js",
+    "static/css/main.9f3e7a3f.chunk.css",
+    "static/js/main.981821ae.chunk.js"
+  ]
+}
